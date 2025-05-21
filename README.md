@@ -120,8 +120,9 @@ Docker:
 Docker will be used to containerize all core services including Kafka, Apache Spark, MongoDB, and the API client. This ensures consistent runtime environments across development and deployment stages, enhances portability, and simplifies service orchestration using Docker Compose. It also streamlines onboarding and supports scalable, modular deployment of the entire data pipeline.
 
 Data Pipeline Architecture (view in file)
+
 Resources:
-Install Java 11jdk 
-kafka installation using Docker & Docker-Compose 
-Install Apache Spark 
-Setup MongoDB connection, with Docker-compose
+-Install Java 11jdk 
+-kafka installation using Docker & Docker-Compose 
+-Install Apache Spark 
+-Setup MongoDB connection, with Docker-compose
