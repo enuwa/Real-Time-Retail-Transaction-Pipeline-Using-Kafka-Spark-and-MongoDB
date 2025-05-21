@@ -100,11 +100,14 @@ Draw.io:
 Utilized to create diagrams that outline data flow, architecture, and ETL process design, providing a visual representation of the system for better understanding and communication
 
 Project Enhancement
+
 To enhance project delivery and ensure a scalable, maintainable architecture, the following
 components will be integrated into the data engineering workflow:
+
 API Integration:
 A dedicated RESTful API will serve as the primary data source for streaming structured retail transaction data. This API delivers JSON-formatted records in
-real time, including transaction details such as store, customer, product, and payment information, which will feed directly into the Kafka ingestion layer.
+real time, including transaction details such as store, customer, product, and payment information, which will feed directly into the Kafka ingestion layer.    
+
 API URI:
 a. Docs: https://retails-api.amdari.io/docs:To check for the documentation
 b. ReDoc: https://retails-api.amdari.io/redoc : To check for the documentation
